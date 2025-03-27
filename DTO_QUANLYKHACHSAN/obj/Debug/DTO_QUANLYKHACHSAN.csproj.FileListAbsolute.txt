@@ -1,0 +1,6 @@
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DTO_QUANLYKHACHSAN\bin\Debug\DTO_QUANLYKHACHSAN.dll
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DTO_QUANLYKHACHSAN\bin\Debug\DTO_QUANLYKHACHSAN.pdb
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DTO_QUANLYKHACHSAN\obj\Debug\DTO_QUANLYKHACHSAN.csprojAssemblyReference.cache
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DTO_QUANLYKHACHSAN\obj\Debug\DTO_QUANLYKHACHSAN.csproj.CoreCompileInputs.cache
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DTO_QUANLYKHACHSAN\obj\Debug\DTO_QUANLYKHACHSAN.dll
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DTO_QUANLYKHACHSAN\obj\Debug\DTO_QUANLYKHACHSAN.pdb

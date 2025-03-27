@@ -1,0 +1,116 @@
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.csprojAssemblyReference.cache
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fDichvu.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fKhachhang.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fLogin.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fMain.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fThuedichvu.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fThuephong.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.QLPhong.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.csproj.GenerateResource.cache
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.csproj.CoreCompileInputs.cache
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.exe
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.pdb
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.Properties.Resources.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\DoanOOP.exe.config
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\DoanOOP.exe
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\DoanOOP.pdb
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\BUS_QUANLYKHACHSAN.dll
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\DTO_QUANLYKHACHSAN.dll
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\DAL_QUANLYKHACHSAN.dll
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\BUS_QUANLYKHACHSAN.pdb
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\DTO_QUANLYKHACHSAN.pdb
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\DAL_QUANLYKHACHSAN.pdb
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.csproj.CopyComplete
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\DAL_QUANLYKHACHSAN.dll.config
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fThanhToan.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fBaoCao.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fDTN.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fKHN.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fDTQ.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fKNQ.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fDoiPhong.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fNhanvien.resources
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\bin\Debug\DoanOOP.exe.config
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\bin\Debug\DoanOOP.exe
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\bin\Debug\DoanOOP.pdb
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\bin\Debug\BUS_QUANLYKHACHSAN.dll
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\bin\Debug\DTO_QUANLYKHACHSAN.dll
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\bin\Debug\DAL_QUANLYKHACHSAN.dll
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\bin\Debug\BUS_QUANLYKHACHSAN.pdb
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\bin\Debug\DTO_QUANLYKHACHSAN.pdb
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\bin\Debug\DAL_QUANLYKHACHSAN.pdb
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\bin\Debug\DAL_QUANLYKHACHSAN.dll.config
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.csprojAssemblyReference.cache
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fBaoCao.resources
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fDichvu.resources
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fDoiPhong.resources
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fKhachhang.resources
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fLogin.resources
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fMain.resources
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fNhanvien.resources
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fDTN.resources
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fDTQ.resources
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fKHN.resources
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fKNQ.resources
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fThuedichvu.resources
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fThuephong.resources
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fThanhToan.resources
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.Properties.Resources.resources
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.QLPhong.resources
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.csproj.GenerateResource.cache
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.csproj.CoreCompileInputs.cache
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.csproj.CopyComplete
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.exe
+D:\Study\Ando\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.pdb
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\DoanOOP.exe.config
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\DoanOOP.exe
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\DoanOOP.pdb
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\BUS_QUANLYKHACHSAN.dll
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\DTO_QUANLYKHACHSAN.dll
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\DAL_QUANLYKHACHSAN.dll
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\BUS_QUANLYKHACHSAN.pdb
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\DTO_QUANLYKHACHSAN.pdb
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\DAL_QUANLYKHACHSAN.pdb
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\DAL_QUANLYKHACHSAN.dll.config
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fBaoCao.resources
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fDichvu.resources
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fDoiPhong.resources
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fKhachhang.resources
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fLogin.resources
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fMain.resources
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fNhanvien.resources
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fDTN.resources
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fDTQ.resources
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fKHN.resources
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fKNQ.resources
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fThuedichvu.resources
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fThuephong.resources
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.fThanhToan.resources
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.Properties.Resources.resources
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.QLPhong.resources
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\GUI_QUANLYKHACHSAN.csproj.CopyComplete
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.exe
+C:\Users\Admin\Downloads\Telegram Desktop\DoanOOP_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.pdb

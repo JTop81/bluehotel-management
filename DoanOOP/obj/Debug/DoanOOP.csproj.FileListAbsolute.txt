@@ -1,0 +1,73 @@
+E:\My artwork (\DoanOOP\DoanOOP\bin\Debug\DoanOOP.exe.config
+E:\My artwork (\DoanOOP\DoanOOP\bin\Debug\DoanOOP.exe
+E:\My artwork (\DoanOOP\DoanOOP\bin\Debug\DoanOOP.pdb
+E:\My artwork (\DoanOOP\DoanOOP\obj\Debug\DoanOOP.csprojAssemblyReference.cache
+E:\My artwork (\DoanOOP\DoanOOP\obj\Debug\DoanOOP.Form1.resources
+E:\My artwork (\DoanOOP\DoanOOP\obj\Debug\DoanOOP.Properties.Resources.resources
+E:\My artwork (\DoanOOP\DoanOOP\obj\Debug\DoanOOP.csproj.GenerateResource.cache
+E:\My artwork (\DoanOOP\DoanOOP\obj\Debug\DoanOOP.csproj.CoreCompileInputs.cache
+E:\My artwork (\DoanOOP\DoanOOP\obj\Debug\DoanOOP.exe
+E:\My artwork (\DoanOOP\DoanOOP\obj\Debug\DoanOOP.pdb
+E:\My artwork (\DoanOOP\DoanOOP\bin\Debug\KhachSan.mdf
+E:\My artwork (\DoanOOP\DoanOOP\bin\Debug\KhachSan_log.ldf
+E:\My artwork (\DoanOOP\DoanOOP\obj\Debug\DoanOOP.QLPhong.resources
+E:\OOP\doan_oop_nhom_2\DoanOOP\DoanOOP\bin\Debug\KhachSan.mdf
+E:\OOP\doan_oop_nhom_2\DoanOOP\DoanOOP\bin\Debug\KhachSan_log.ldf
+E:\OOP\doan_oop_nhom_2\DoanOOP\DoanOOP\bin\Debug\DoanOOP.exe.config
+E:\OOP\doan_oop_nhom_2\DoanOOP\DoanOOP\bin\Debug\DoanOOP.exe
+E:\OOP\doan_oop_nhom_2\DoanOOP\DoanOOP\bin\Debug\DoanOOP.pdb
+E:\OOP\doan_oop_nhom_2\DoanOOP\DoanOOP\obj\Debug\DoanOOP.csprojAssemblyReference.cache
+E:\OOP\doan_oop_nhom_2\DoanOOP\DoanOOP\obj\Debug\DoanOOP.fLogin.resources
+E:\OOP\doan_oop_nhom_2\DoanOOP\DoanOOP\obj\Debug\DoanOOP.Properties.Resources.resources
+E:\OOP\doan_oop_nhom_2\DoanOOP\DoanOOP\obj\Debug\DoanOOP.QLPhong.resources
+E:\OOP\doan_oop_nhom_2\DoanOOP\DoanOOP\obj\Debug\DoanOOP.csproj.GenerateResource.cache
+E:\OOP\doan_oop_nhom_2\DoanOOP\DoanOOP\obj\Debug\DoanOOP.csproj.CoreCompileInputs.cache
+E:\OOP\doan_oop_nhom_2\DoanOOP\DoanOOP\obj\Debug\DoanOOP.exe
+E:\OOP\doan_oop_nhom_2\DoanOOP\DoanOOP\obj\Debug\DoanOOP.pdb
+E:\OOP\doan_oop_nhom_2\DoanOOP\DoanOOP\obj\Debug\DoanOOP.fDichvu.resources
+E:\OOP\doan_oop_nhom_2\DoanOOP\DoanOOP\obj\Debug\DoanOOP.fKhachhang.resources
+E:\OOP\doan_oop_nhom_2\DoanOOP\DoanOOP\obj\Debug\DoanOOP.fMain.resources
+E:\OOP\doan_oop_nhom_2\DoanOOP\DoanOOP\obj\Debug\DoanOOP.fNhanvien.resources
+E:\OOP\doan_oop_nhom_2\DoanOOP\DoanOOP\obj\Debug\DoanOOP.fThuedichvu.resources
+E:\OOP\doan_oop_nhom_2\DoanOOP\DoanOOP\obj\Debug\DoanOOP.fThuephong.resources
+E:\OOP\doan_oop_nhom_2\DoanOOP\DoanOOP\obj\Debug\DoanOOP.fTraphong.resources
+E:\OOP\doan_oop_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\KhachSan.mdf
+E:\OOP\doan_oop_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\KhachSan_log.ldf
+E:\OOP\doan_oop_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\DoanOOP.exe.config
+E:\OOP\doan_oop_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\DoanOOP.exe
+E:\OOP\doan_oop_nhom_2\DoanOOP_nhom_2\DoanOOP\bin\Debug\DoanOOP.pdb
+E:\OOP\doan_oop_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.csprojAssemblyReference.cache
+E:\OOP\doan_oop_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.fDichvu.resources
+E:\OOP\doan_oop_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.fKhachhang.resources
+E:\OOP\doan_oop_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.fLogin.resources
+E:\OOP\doan_oop_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.fMain.resources
+E:\OOP\doan_oop_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.fNhanvien.resources
+E:\OOP\doan_oop_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.fThuedichvu.resources
+E:\OOP\doan_oop_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.fThuephong.resources
+E:\OOP\doan_oop_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.Properties.Resources.resources
+E:\OOP\doan_oop_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.QLPhong.resources
+E:\OOP\doan_oop_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.fTraphong.resources
+E:\OOP\doan_oop_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.csproj.GenerateResource.cache
+E:\OOP\doan_oop_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.csproj.CoreCompileInputs.cache
+E:\OOP\doan_oop_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.exe
+E:\OOP\doan_oop_nhom_2\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.pdb
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\KhachSan.mdf
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\KhachSan_log.ldf
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\DoanOOP.exe.config
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\DoanOOP.exe
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\bin\Debug\DoanOOP.pdb
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.csprojAssemblyReference.cache
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.fDichvu.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.fKhachhang.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.fLogin.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.fMain.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.fNhanvien.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.fThuedichvu.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.fThuephong.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.Properties.Resources.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.QLPhong.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.fTraphong.resources
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.csproj.GenerateResource.cache
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.csproj.CoreCompileInputs.cache
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.exe
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\DoanOOP\obj\Debug\DoanOOP.pdb

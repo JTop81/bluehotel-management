@@ -1,0 +1,24 @@
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\bin\Debug\BUS_QUANLYKHACHSAN.dll
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\bin\Debug\BUS_QUANLYKHACHSAN.pdb
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\bin\Debug\DAL_QUANLYKHACHSAN.dll
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\bin\Debug\DTO_QUANLYKHACHSAN.dll
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\bin\Debug\DAL_QUANLYKHACHSAN.pdb
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\bin\Debug\DTO_QUANLYKHACHSAN.pdb
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\obj\Debug\BUS_QUANLYKHACHSAN.csprojAssemblyReference.cache
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\obj\Debug\BUS_QUANLYKHACHSAN.csproj.CoreCompileInputs.cache
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\obj\Debug\BUS_QUANLYKHACHSAN.csproj.CopyComplete
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\obj\Debug\BUS_QUANLYKHACHSAN.dll
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\obj\Debug\BUS_QUANLYKHACHSAN.pdb
+E:\My artwork (\DoanOOP_phuc 1.1\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\bin\Debug\DAL_QUANLYKHACHSAN.dll.config
+D:\Study\Ando\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\bin\Debug\BUS_QUANLYKHACHSAN.dll
+D:\Study\Ando\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\bin\Debug\BUS_QUANLYKHACHSAN.pdb
+D:\Study\Ando\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\bin\Debug\DAL_QUANLYKHACHSAN.dll
+D:\Study\Ando\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\bin\Debug\DTO_QUANLYKHACHSAN.dll
+D:\Study\Ando\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\bin\Debug\DAL_QUANLYKHACHSAN.pdb
+D:\Study\Ando\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\bin\Debug\DAL_QUANLYKHACHSAN.dll.config
+D:\Study\Ando\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\bin\Debug\DTO_QUANLYKHACHSAN.pdb
+D:\Study\Ando\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\obj\Debug\BUS_QUANLYKHACHSAN.csprojAssemblyReference.cache
+D:\Study\Ando\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\obj\Debug\BUS_QUANLYKHACHSAN.csproj.CoreCompileInputs.cache
+D:\Study\Ando\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\obj\Debug\BUS_QUANLYKHACHSAN.csproj.CopyComplete
+D:\Study\Ando\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\obj\Debug\BUS_QUANLYKHACHSAN.dll
+D:\Study\Ando\DoanOOP_nhom_2\BUS_QUANLYKHACHSAN\obj\Debug\BUS_QUANLYKHACHSAN.pdb
